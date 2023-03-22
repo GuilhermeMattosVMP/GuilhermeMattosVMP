@@ -2,9 +2,7 @@
 
 - 📓 Cursando Análise e Desenvolvimento de Sistemas (3° Semestre)
 - 🔭 Atualmente trabalho com Desenvolvimento Web
-- 🌱 Estudando JavaScript nas horas vagas
-- ✉️ Email: guilhermemattosvmp@gmail.com
-- 🏢 LinkedIn: https://www.linkedin.com/in/guilherme-mattos-a2684a258/
+- ✉️ Email: mattosvmp@gmail.com
 
 ##
 
