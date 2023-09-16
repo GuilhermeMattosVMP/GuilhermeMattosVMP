@@ -1,6 +1,5 @@
 ### Seja bem-vindo ao meu perfil!
 
-- 📓 Cursando Análise e Desenvolvimento de Sistemas (3° Semestre)
 - 🔭 Atualmente trabalho com Desenvolvimento Web
 - ✉️ Email: mattosvmp@gmail.com
 
