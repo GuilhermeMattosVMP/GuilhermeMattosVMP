@@ -1,7 +1,9 @@
-### Seja bem-vindo ao meu perfil!
+### Seja bem-vindo ao meu perfil 👋🏼!
 
+- 💻 Meu primeiro projeto: https://mattosvmp.github.io/study/
 - 🔭 Atualmente trabalho com Desenvolvimento Web
 - ✉️ Email: mattosvmp@gmail.com
+- ✝ Pax in Nomine Domini.
 
 ##
 
