@@ -2,7 +2,6 @@
 
 - 💻 Meu primeiro projeto: https://mattosvmp.github.io/study/
 - 🗿 Portfólio: https://mattosvmp.github.io/workspace/ 
-- ✉️ Email: mattosvmp@gmail.com
 - ✝ Pax in Nomine Domini
 
 ##
