@@ -11,5 +11,5 @@
   <img align="center" alt="VMP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VMP-REACTJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="VMP-NODEJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="VMP-NODEJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot.svg">
+  <img align="center" alt="VMP-NODEJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-springboot/java-springboot.svg">
 </div>
