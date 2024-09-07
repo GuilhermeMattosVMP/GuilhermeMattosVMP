@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu perfil 👋 !
 
-- 🗿 Portfólio: https://mattosvmp.github.io/projeto-portfolio/
+- 🗿 Portfólio: https://mattosvmp.github.io/portfolio/
 - ✝ Pax in Nomine Domini
 
 ##
